@@ -1,0 +1,262 @@
+@media only screen and (max-width:600px) {
+    .logo-sec {
+        margin: 0 !important;
+    }
+    .first-main-sec-con h1 {
+        font-size: 40px !important;
+        width: 100% !important;
+    }
+    .first-main-sec-con h1 i {
+        display: none;
+    }
+    .first-card-con {
+        gap: 40px;
+    }
+    .second-main-sec-con h1 {
+        width: 85%;
+        text-align: start !important;
+    }
+    .second-main-sec-con p {
+        width: 85%;
+        text-align: start !important;
+    }
+    .second-card {
+        width: 80% !important;
+    }
+    .third-card-con {
+        flex-direction: column-reverse;
+    }
+    .third-card {
+        width: 90%;
+    }
+    .third-card p {
+        width: 100%;
+    }
+    .third-left-con h1 {
+        font-size: 30px !important;
+    }
+    
+    .fourth-card h4 {
+        width: 80%;
+    }
+    .fourth-card p {
+        font-size: 14px;
+        width: 80%;
+    }
+    .fourth-card:nth-child(2) {
+        width: 100%;
+    }
+    .fourth-card img:nth-child(1){
+        width: 100% !important;
+    }
+    .fifth-card:nth-child(2) {
+        width: 100%;
+    }
+    .fifth-card:nth-child(2) h4 {
+        width: 80%;
+    }
+    .third-left-con h1 {
+        width: 100% !important;
+        font-size: 50px !important;
+    }
+    .third-right-con {
+        flex-direction: column-reverse;
+    }
+    .one-left-con img {
+        width: 100%;
+        height: 100%;
+    }
+    .second-left-con {
+        flex-direction: column-reverse !important;
+    }
+    .img-sec {
+        width: 100%;
+    }
+    .img-sec img {
+        width: 95% !important;
+    }
+    .fourth-right-con {
+        width: 100%;
+    }
+    .card-one-con {
+        width: 80% !important;
+    }
+    .fourth-left-sec {
+        width: 80%;
+        padding-left: 130px !important;
+        
+    }
+    .fifth-left-con {
+        padding: 0 !important;
+    }
+    .fifth-left-con h1 {
+        margin-left: 15px !important;
+    }
+    .eight-card {
+        width: 100% !important;
+    }
+    .eight-card i {
+        left: 200px;
+    }
+    .seventh-card i:nth-child(2) {
+        left: 200px;
+    }
+    .fifth-right-con button {
+        margin: 15px !important;
+    }
+    .seventh-card-con h1 {
+        font-size: 35px !important;
+    }
+    .nineth-card {
+        width: 100% !important;
+        height: 80px !important;
+        padding-left: 20px !important;
+    }
+    .nineth-card img {
+        height: 40px !important;
+    }
+    .seventh-card-con button {
+        padding: 10px 10%;
+        
+    }
+    .tenth-card:nth-child(1) {
+        height: 170px !important;
+    }
+    .tenth-card h5 {
+        gap: 0 !important;
+        gap: 15px !important;
+    }
+    .text-con h5 {
+        width: 80% !important;
+    }
+    .eight-card-img:nth-child(2){
+        padding-top: 50px !important;
+    }
+    .eleven-card {
+        padding-top:50px !important ;
+    }
+    .eight-card-img h6 {
+        margin-top: 0 !important;
+    }
+    .xenon-card {
+        width: 100% !important;
+    }
+    .tickmark-div {
+        width: 90% !important;
+    }
+    
+    .tenth-card-sec:nth-child(4) {
+        height: 400px !important;
+    }
+    .tenth-card-con {
+        display: flex !important;
+        flex-direction: column;
+        gap: 50px !important;
+    }
+    .tenth-data-sec-con h1 {
+        padding-left: 30px !important;
+    }
+    .tweleve-left-card h1 {
+        font-size: 25px !important;
+    }
+    .third-button-con {
+        gap: 15px !important;
+    }
+    .footer-card {
+        width: 100% !important;
+    }
+    
+}
+
+@media only screen and (max-width:1280px) {
+    .img-div img {
+        left: 120px !important;
+        height: 450px !important;
+        bottom: 10px;
+    }
+    
+    .first-card:nth-child(3) img{
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: contain !important;
+    }
+    .third-left-con h1 {
+        width: 100%;
+        font-size: 40px !important;
+    }
+    .text-sec {
+        height: 100%;
+    }
+    .fifth-card:nth-child(2){
+        height: 80%;
+    }
+    .tenth-card:nth-child(1) {
+        height: 170px !important;
+    }
+    .tenth-card h5 {
+        gap: 0 !important;
+        gap: 100px !important;
+    }
+    
+    .eight-card-img h6 {
+        margin-top: 0px !important;
+        margin-top: 50px !important;
+    }    
+    .tenth-card-con {
+        display: flex !important;
+        gap: 50px !important;
+    }
+    .twelve-right-card img {
+        width: 90% !important;
+    }
+}
+
+@media only screen and (max-width:431px) {
+    .first-main-sec-con h1 {
+        font-size: 30px !important;
+    }
+    .img-sec img {
+        width: 95% !important;
+    }
+    .fourth-left-sec {
+        padding-left: 0 !important;
+        padding-left: 100px !important;
+    }
+    .seventh-right-sec {
+        height: 90vh !important;
+    }
+    .tenth-card:nth-child(1) {
+        height: 200px !important;
+    }
+    
+    .tenth-card h5 {
+        gap: 0 !important;
+    }
+    .nine-right-text-sec h4 {
+        font-size: 20px;
+    }
+    .nine-right-text-sec p {
+        width: 100%;
+    }
+
+    .tenth-data-sec-con h1 {
+        padding-left: 30px !important;
+    }
+    .tenth-card-sec {
+        height: 450px !important;
+    }
+    .tenth-card-sec:nth-child(4) {
+        height: 470px !important;
+    }
+    .calcu-text-sec h5 {
+        font-size: 15px !important;
+    }
+    .calcu-text-sec p {
+        font-size: 15px !important;
+    }
+    .tenth-card-con {
+        display: flex !important;
+        flex-direction: column;
+        gap: 50px !important;
+    }
+}

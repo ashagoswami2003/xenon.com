@@ -1,0 +1,369 @@
+.br {
+    border: 2px solid red;
+}
+
+.bb {
+    border: 2px solid blue;
+}
+
+.bm {
+    border: 2px solid mediumaquamarine;
+}
+
+.bg {
+    border: 2px solid gold;
+}
+
+.bk {
+    border: 2px solid black;
+}
+
+
+.w-50 {
+    width: 50%;
+}
+
+.h-900px {
+    height: 900px;
+}
+
+.h-800px {
+    height: 800px;
+}
+
+.h-700px {
+    height: 700px;
+}
+
+.h-600px {
+    height: 600px;
+}
+
+.h-550px {
+    height: 550px;
+}
+.h-500px {
+    height: 500px;
+}
+.h-450px {
+    height: 450px;
+}
+.h-400px {
+    height: 400px;
+}
+.h-350px {
+    height: 350px;
+}
+
+.h-300px {
+    height: 300px;
+}
+.h-250px {
+    height: 250px;
+}
+.h-200px {
+    height: 200px;
+}
+.h-170px {
+    height: 170px;
+}
+.h-150px {
+    height: 150px;
+}
+.h-100px {
+    height: 100px;
+}
+
+.h-100vh {
+    height: 100vh;
+}
+
+.h-80px {
+    height: 80px;
+}
+.h-70px {
+    height: 70px;
+}
+.h-50px {
+    height: 50px;
+}
+
+.h-40px {
+    height: 40px;
+}
+
+.bt {
+    background-color: #1ad178;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.first-card-con {
+    position: relative;
+    gap: 100px;
+}
+
+.img-div {
+    background: rgb(23, 181, 98);
+    background: linear-gradient(184deg, rgba(23, 181, 98, 0.7372198879551821) 55%, rgba(0, 0, 0, 1) 100%);
+}
+
+.img-div img {
+    position: absolute;
+    bottom: 4px;
+    left: 230px !important;
+}
+.second-main-sec-con h1 img {
+    
+    background-color: #1ad178;
+    padding: 0px 20px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: -10px;
+}
+.second-card {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.third-card:nth-child(1) {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.third-sec-data-con {
+    width: 95% !important;
+}
+.fingerprint-sec{
+    height: 150px;
+    
+    
+    position: relative !important;
+}
+.fourth-card {
+    position: relative;
+}
+.fourth-card img:nth-child(2) {
+    position: absolute;
+    bottom: 130px;
+    left: 50px;
+}
+.fourth-left-sec i {
+    padding: 12px;
+    background-color: rgba(255, 255, 255, 0.404);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+.fourth-right-sec button {
+    padding: 5px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    background-color: #f6f8fb;
+    border: 2px solid #1ad178;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.sixth-card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.eight-card {
+    position: relative;
+    
+}
+.eight-card i {
+    position: absolute;
+    left: 300px;
+    bottom: 270px;
+    background-color: rgba(0, 0, 0, 0.411);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 25px;
+}
+.seventh-card:nth-child(2) {
+    position: relative;
+    
+}
+.seventh-card i:nth-child(2) {
+    position: absolute;
+    left: 150px;
+    bottom: 130px;
+    background-color: rgba(0, 0, 0, 0.411);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 25px;
+}
+
+.seventh-card:nth-child(3) {
+    position: relative;
+    
+}
+.seventh-card i:nth-child(3) {
+    position: absolute;
+    left: 150px;
+    bottom: 130px;
+    background-color: rgba(0, 0, 0, 0.411);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 25px;
+}
+.fifth-right-con button {
+    padding: 8px 25px;
+    background-color: #f6f8fb;
+    border: 3px solid #1ad178;
+    border-radius: 10px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-left: 100px !important;
+}
+.seventh-card-con button {
+    background-color: #1ad178;
+    padding: 30px 5px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.seventh-card-con button i {
+    padding: 15px;
+    background-color: white;
+    border-radius: 15px;
+    
+}
+.seventh-sec-data-con button:nth-child(1){
+    border: 3px solid #1ad178;
+    background-color: white;
+}
+.seventh-sec-data-con button {
+    background-color: #f6f8fb;
+    border: 3px solid white;
+    border-radius: 15px;
+    padding: 12px 50px;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.tenth-card {
+    border: 1px solid rgba(0, 0, 0, 0.203);
+}
+.tenth-card h5 {
+    display: flex;
+    gap: 190px;
+}
+.eight-sec-text-con button {
+    padding: 12px 24px;
+    border: 2px solid #1ad178;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.eight-text-sec button {
+    color: #1ad178;
+    background-color: #1ad1792f;
+    border-radius: 25px;
+    border: none;
+    padding: 7px 20px;
+    font-weight: bold;
+}
+.bt2 {
+    color: #1ad178;
+    background-color: #1ad1792f;
+    border-radius: 25px;
+    border: none;
+    padding: 7px 20px;
+    font-weight: bold;
+    font-size: 10px;
+}
+.xenon-card {
+    border: 10px solid white;
+    background-color: #f6f8fb;
+    border-radius: 25px;
+}
+.tickmark-div {
+    background-color: white;
+    border-radius: 15px;
+}
+.xenon-card button {
+    padding: 10px 60px;
+    border-radius: 15px;
+    color: black;
+    background-color: #1ad178;
+    font-weight: bold;
+    border: none;
+}
+.nine-left-text-sec {
+    background-color: #1ad178;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tenth-card-sec button {
+    padding: 12px 24px;
+    border: 2px solid #1ad178;
+    border-radius: 15px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-left: 20px;
+}
+.eleven-sec-data-con button {
+    padding: 12px 24px;
+    border: 2px solid #1ad178;
+    border-radius: 15px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.invoice-sec i {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;    
+    background-color: #1ad178;
+    color: white;
+    border-radius: 12px;
+}
+
+.twelve-left-sec button{
+    height: 130px;
+    width: 130px;
+    border: 2px solid rgba(255, 255, 255, 0.436);
+    background-color: black;
+    color: white;
+    border-radius:25px;
+    font-size: 20px;
+}
+.footer-card li {
+    list-style: none;
+}
+.footer-card li a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.527);
+}
